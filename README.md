@@ -1,4 +1,4 @@
-# 📊 Customer Churn Prediction Project
+# 📊 Customer Churn Prediction
 
 ## 🚀 Project Overview
 Customer churn prediction helps businesses identify customers likely to leave.

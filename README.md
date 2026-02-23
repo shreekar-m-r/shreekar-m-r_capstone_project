@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @shreekar-m-r
-This is my Capstone Project
-
 # 📊 Customer Churn Prediction Project
 
 ## 🚀 Project Overview

@@ -61,6 +61,6 @@ Algorithms Used:
 
 ---
 
-## 👤 Author
-Shreekar M R
+
+Shreekar M R |
 Email - rmshreekar@gmail.com
